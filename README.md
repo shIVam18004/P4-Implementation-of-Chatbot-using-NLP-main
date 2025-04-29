@@ -17,10 +17,10 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-*(Add your own screenshots here if needed)*  
-[Alt next IMG](https://github.com/shIVam18004/P4-Implementation-of-Chatbot-using-NLP-main/blob/main/Chat_1.png)
-[Alt next IMG](https://github.com/shIVam18004/P4-Implementation-of-Chatbot-using-NLP-main/blob/main/Chat_2.png)
-[Alt next IMG](https://github.com/shIVam18004/P4-Implementation-of-Chatbot-using-NLP-main/blob/main/Chat_3.png)
+
+![Chatbot Screenshot 1](https://raw.githubusercontent.com/shIVam18004/P4-Implementation-of-Chatbot-using-NLP-main/main/Chat_1.png)  
+![Chatbot Screenshot 2](https://raw.githubusercontent.com/shIVam18004/P4-Implementation-of-Chatbot-using-NLP-main/main/Chat_2.png)  
+![Chatbot Screenshot 3](https://raw.githubusercontent.com/shIVam18004/P4-Implementation-of-Chatbot-using-NLP-main/main/Chat_3.png)
 
 ---
 
