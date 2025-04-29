@@ -18,8 +18,9 @@ streamlit run app.py
 ## 📸 Screenshots
 
 *(Add your own screenshots here if needed)*  
-- Chatbot Interface Screenshot - 1  
-- Chatbot Interface Screenshot - 2  
+[Alt next IMG](https://github.com/shIVam18004/P4-Implementation-of-Chatbot-using-NLP-main/blob/main/Chat_1.png)
+[Alt next IMG](https://github.com/shIVam18004/P4-Implementation-of-Chatbot-using-NLP-main/blob/main/Chat_2.png)
+[Alt next IMG](https://github.com/shIVam18004/P4-Implementation-of-Chatbot-using-NLP-main/blob/main/Chat_3.png)
 
 ---
 
@@ -66,8 +67,8 @@ streamlit run app.py
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/intent-chatbot.git
-   cd intent-chatbot
+   git clone https://github.com/shIVam18004/P4-Implementation-of-Chatbot-using-NLP-main.git
+   cd P4-Implementation-of-Chatbot-using-NLP-main
    ```
 
 2. **Create a virtual environment & activate it**  
